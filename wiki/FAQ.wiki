@@ -1,0 +1,3 @@
+Q: Can set width and height so i can resize my pictures in the ini files?
+
+Djdafreund: "That's the Beauty of the program, if you want a bigger button or smaller, just edit the size of the image and it's done!!"
